@@ -36,12 +36,9 @@ If you find this project useful, please consider citing:
 
 ```bibtex
 @article{gao2024pmtprogressivemeanteacher,
-      title={PMT: Progressive Mean Teacher via Exploring Temporal Consistency for Semi-Supervised Medical Image Segmentation}, 
-      author={Ning Gao and Sanping Zhou and Le Wang and Nanning Zheng},
-      year={2024},
-      eprint={2409.05122},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2409.05122}, 
+  title={PMT: Progressive Mean Teacher via Exploring Temporal Consistency for Semi-Supervised Medical Image Segmentation},
+  author={Ning Gao and Sanping Zhou and Le Wang and Nanning Zheng},
+  journal={arXiv preprint arXiv:2409.05122},
+  year={2024}
 }
 ```
